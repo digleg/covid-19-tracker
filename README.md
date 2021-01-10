@@ -1,6 +1,6 @@
 # Getting Started with covid-19-tracker
 
-![](https://imgur.com/aSiOHV5)
+<img src="https://i.imgur.com/aSiOHV5.png">
 
 ## Available Scripts
 
