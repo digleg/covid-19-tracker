@@ -84,9 +84,6 @@ function App() {
                 setMapZoom(4);
             });
     };
-
-    console.log('country info >>> :', countryInfo);
-
     return (
         <div className="app">
             <div className="app__left">

@@ -60,7 +60,6 @@ const buildChartData = (data, casesType = 'case') => {
         }
         lastDataPoint = data[casesType][date];
     }
-    console.log('chartData:', chartData);
     return chartData;
 };
 
